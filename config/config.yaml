@@ -97,8 +97,10 @@ weight:
 
 # name 可以定义任意名称，只具有显示作用，即使项目运行了几天后，忽然改掉 name 也不会影响代码的正常运行
 platforms:
-  - id: "toutiao"
-    name: "今日头条"
+    id: "tencent-hot"
+    name: "腾讯新闻 综合早报
+  - id: "thepaper"
+    name: "澎湃新闻"
   - id: "wallstreetcn-hot"
     name: "华尔街见闻"
   - id: "cankaoxiaoxi"
@@ -109,9 +111,7 @@ platforms:
     name: "财联社热门"
   - id: "tieba"
     name: "贴吧"
-  - id: "weibo"
-    name: "微博"
-  - id: "douyin"
-    name: "抖音"
+  - id: "juejin"
+    name: "掘金"
   - id: "sspai"
     name: "少数派"
